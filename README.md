@@ -21,7 +21,7 @@ Experienced Data Scientist with proven skills in programming, machine learning (
 
 * **Experience**
 
-* JV Enterprise (Gujarat, India) - Data Scientist, April 2020 - Present
+* JV Enterprise (Gujarat, India) - Data Scientist, April 2020 - July 2022
 
     * Collaborated with cross-functional teams to analyze large datasets, identify trends, and extract actionable insights
     * Developed predictive models to optimize inventory management, resulting in a 15% reduction in excess stock
@@ -40,7 +40,7 @@ Experienced Data Scientist with proven skills in programming, machine learning (
       
 * **Projects**
 
-* Multilingual Chatbot (GitHub)
+* Multilingual Chatbot [GitHub](https://github.com/shreyshah6699/Multilingual-Chatbot-Powered-by-NLP-and-Deep-Learning)
 
     * Developed a versatile multilingual chatbot by integrating PyTorch-based deep learning, Bag of Words Natural Language Processing model, web scraping, and a tkinter user interface.
     * Offered features like weather updates, horoscope predictions, jokes, Sudoku games, and translations in over 100 languages using the Hugging Face Transformers library (100B+ parameters).
