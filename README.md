@@ -1,17 +1,18 @@
 **Shrey Shah**
 
 * **Contact:**
-    * Email: shrey.shah@domain.com (replace with your email address)
-    * Phone: (200) 912-6547
-    * [LinkedIn](https://www.linkedin.com/in/shreyhshah) (replace with your LinkedIn URL)
+    * Email: shreyshah6699@outlook.com 
+    * Phone: (200) 912-6598
+    * [LinkedIn](https://www.linkedin.com/in/shrey-shah99) 
 * **Summary:**
 
 Experienced Data Scientist with proven skills in programming, machine learning (including deep learning and NLP), and data analysis to extract valuable insights. Track record of improving business metrics in unconventional ways, guiding customer experiences across diverse industries.
 
 * **Education**
 
-* Stevens Institute of Technology (Hoboken, NJ) - Master's in Technology, 2018-2020
-* Gujarat Technological University (Gujarat, India) - Bachelor's in Science, 2010-2014
+* Stevens Institute of Technology (Hoboken, NJ) - Master's in Computer Science, 2022-2023
+* Stevens Institute of Technology (Hoboken, NJ) - Graduate Certificate in Machine Learning, 2022-2023
+* Gujarat Technological University (Gujarat, India) - Bachelor's in Computer Engineering, 2016-2020
 
 * **Programming Skills**
 
@@ -20,14 +21,23 @@ Experienced Data Scientist with proven skills in programming, machine learning (
 
 * **Experience**
 
-* JV Enterprise (Gahan, India) - Data Scientist, April 2020 - Present
+* JV Enterprise (Gujarat, India) - Data Scientist, April 2020 - Present
 
-    * Collaborated with engineers to implement a real-time anomaly detection algorithm for production lines.
-    * Developed a predictive maintenance management system, resulting in a 15% reduction in excess stock.
-    * Conducted A/B testing of pricing strategies, leading to a 7% increase in price.
-    * Leveraged machine learning techniques to improve product quality control, reducing defects by 12%.
-    * Contributed to the development of a recommendation system to personalize customer experiences.
+    * Collaborated with cross-functional teams to analyze large datasets, identify trends, and extract actionable insights
+    * Developed predictive models to optimize inventory management, resulting in a 15% reduction in excess stock
+    * Conducted A/B testing for pricing strategies, leading to a 7% increase in profit margins
+    * Leveraged machine learning techniques to improve product quality control, reducing defects by 12%
+    * Worked closely with engineers to implement real-time anomaly detection algorithms for production lines
+    * Contributed to the development of a recommendation system for personalized customer experiences
+      
+* JV Enterprise (Gujarat, India) - Data Analyst, April 2018 - March 2020
 
+    *  Cleaned and transformed raw data from various sources, ensuring data accuracy and consistency
+    *  Created interactive dashboards using Tableau for monitoring key performance indicators (KPIs)
+    *  Collaborated with business stakeholders to define data requirements and deliver actionable insights
+    *  Conducted exploratory data analysis (EDA) to uncover patterns and anomalies
+    *  Assisted in designing and implementing data pipelines for efficient data processing
+      
 * **Projects**
 
 * Multilingual Chatbot (GitHub)
