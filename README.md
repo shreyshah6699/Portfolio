@@ -40,7 +40,7 @@ Experienced Data Scientist with proven skills in programming, machine learning (
       
 * **Projects**
 
-* Multilingual Chatbot [GitHub](https://github.com/shreyshah6699/Multilingual-Chatbot-Powered-by-NLP-and-Deep-Learning)
+* Multilingual Chatbot [(GitHub)](https://github.com/shreyshah6699/Multilingual-Chatbot-Powered-by-NLP-and-Deep-Learning)
 
     * Developed a versatile multilingual chatbot by integrating PyTorch-based deep learning, Bag of Words Natural Language Processing model, web scraping, and a tkinter user interface.
     * Offered features like weather updates, horoscope predictions, jokes, Sudoku games, and translations in over 100 languages using the Hugging Face Transformers library (100B+ parameters).
