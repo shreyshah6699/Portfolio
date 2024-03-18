@@ -5,8 +5,8 @@
     * Phone: (201) 912-6598
     * [LinkedIn](https://www.linkedin.com/in/shrey-shah99) 
 * **Summary:**
-
-      Experienced Data Scientist with proven skills in programming, machine learning (including deep learning and NLP), and data analysis to extract valuable insights. Track record of improving business metrics in unconventional ways, guiding customer experiences across diverse industries.
+      Experienced Data Scientist with proven skills in programming, machine learning (including deep learning and NLP), and data analysis to extract valuable
+      insights. Track record of improving business metrics in unconventional ways, guiding customer experiences across diverse industries.
 
 * **Education**
 
