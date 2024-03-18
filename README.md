@@ -6,7 +6,7 @@
     * [LinkedIn](https://www.linkedin.com/in/shrey-shah99) 
 * **Summary:**
 
-Experienced Data Scientist with proven skills in programming, machine learning (including deep learning and NLP), and data analysis to extract valuable insights. Track record of improving business metrics in unconventional ways, guiding customer experiences across diverse industries.
+      Experienced Data Scientist with proven skills in programming, machine learning (including deep learning and NLP), and data analysis to extract valuable insights. Track record of improving business metrics in unconventional ways, guiding customer experiences across diverse industries.
 
 * **Education**
 
@@ -16,8 +16,8 @@ Experienced Data Scientist with proven skills in programming, machine learning (
 
 * **Programming Skills**
 
-* Languages: Python, R, SQL, C++
-* Technologies: Keras, Caffe, PyTorch, Scikit-image, TensorFlow, OpenCV, SciPy, AWS, GCP Azure, Apache Spark, MATLAB, Flask, Hadoop, Hive, Docker, Databricks Power BI, Tableau, ML Ops, Snowflake
+   * Languages: Python, R, SQL, C++
+   * Technologies: Keras, Caffe, PyTorch, Scikit-image, TensorFlow, OpenCV, SciPy, AWS, GCP Azure, Apache Spark, MATLAB, Flask, Hadoop, Hive, Docker, Databricks Power BI, Tableau, ML Ops, Snowflake
 
 * **Experience**
 
