@@ -1,4 +1,4 @@
-**ML Engineer | Data Scientist | Data Engineer | Data Analyst**
+**ML Engineer** | **Data Scientist** | **Data Engineer** | **Data Analyst**
 
 * **Contact**
     * Email: shreyshah6699@outlook.com 
