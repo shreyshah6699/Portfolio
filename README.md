@@ -2,7 +2,7 @@
 
 * **Contact:**
     * Email: shreyshah6699@outlook.com 
-    * Phone: (200) 912-6598
+    * Phone: (201) 912-6598
     * [LinkedIn](https://www.linkedin.com/in/shrey-shah99) 
 * **Summary:**
 
@@ -10,9 +10,9 @@ Experienced Data Scientist with proven skills in programming, machine learning (
 
 * **Education**
 
-* Stevens Institute of Technology (Hoboken, NJ) - Master's in Computer Science, 2022-2023
-* Stevens Institute of Technology (Hoboken, NJ) - Graduate Certificate in Machine Learning, 2022-2023
-* Gujarat Technological University (Gujarat, India) - Bachelor's in Computer Engineering, 2016-2020
+   * Stevens Institute of Technology (Hoboken, NJ) - Master's in Computer Science, 2022-2023
+   * Stevens Institute of Technology (Hoboken, NJ) - Graduate Certificate in Machine Learning, 2022-2023
+   * Gujarat Technological University (Gujarat, India) - Bachelor's in Computer Engineering, 2016-2020
 
 * **Programming Skills**
 
