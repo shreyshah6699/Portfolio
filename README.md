@@ -61,5 +61,5 @@
 
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shrey-shah99" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/shrey-shah99?trk=profile-badge">Shrey Shah</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shrey-shah99" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/shrey-shah99?trk=profile-badge"></a></div>
               
