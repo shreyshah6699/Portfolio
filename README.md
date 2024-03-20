@@ -4,7 +4,7 @@
     * Email: shreyshah6699@outlook.com 
     * Phone: (201) 912-6598
     * [LinkedIn](https://www.linkedin.com/in/shrey-shah99)
-    * <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shrey-shah99" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/shrey-shah99?trk=profile-badge">Shrey Shah</a></div>
+
               
    
 * **Summary:**
@@ -57,3 +57,9 @@
    
        * Elevated Machine Translation Accuracy by implementing a Bidirectional LSTM architecture to improve English-to-target language translation compared to standard LSTM. Achieved a BLEU score of 0.87, signifying fluency and accuracy.
        * Demonstrated advanced deep learning expertise by successfully applying cutting-edge Bidirectional LSTM technology to a real-world problem. Conducted comprehensive model evaluation using BLEU scores, showcasing proficiency in model development, optimization, and performance measurement.
+
+
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shrey-shah99" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/shrey-shah99?trk=profile-badge">Shrey Shah</a></div>
+              
