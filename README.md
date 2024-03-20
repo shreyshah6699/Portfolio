@@ -4,8 +4,7 @@
     * Email: shreyshah6699@outlook.com 
     * Phone: (201) 912-6598
     * [LinkedIn](https://www.linkedin.com/in/shrey-shah99)
-    * <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shrey-shah99" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/shrey-shah99?trk=profile-badge">Shrey Shah</a></div>
-              
+   
 * **Summary:**
   * Experienced Data Scientist with proven skills in programming, machine learning (including deep learning and NLP), and data analysis to extract valuable
       insights. Track record of improving business metrics in unconventional ways, guiding customer experiences across diverse industries.
