@@ -8,7 +8,7 @@
               
    
 * **Summary:**
-  * Experienced Data Scientist with proven skills in programming, machine learning (including deep learning and NLP), and data analysis to extract valuable
+  * Experienced Data Analyst with proven skills in programming, machine learning (including deep learning and NLP), and data analysis to extract valuable
       insights. Track record of improving business metrics in unconventional ways, guiding customer experiences across diverse industries.
 
 * **Education**
@@ -24,7 +24,7 @@
 
 * **Experience**
 
-   * JV Enterprise (Gujarat, India) - Data Scientist, April 2020 - July 2022
+   * JV Enterprise (Gujarat, India) - Data Analyst, April 2020 - July 2022
    
        * Collaborated with cross-functional teams to analyze large datasets, identify trends, and extract actionable insights
        * Developed predictive models to optimize inventory management, resulting in a 15% reduction in excess stock
@@ -33,7 +33,7 @@
        * Worked closely with engineers to implement real-time anomaly detection algorithms for production lines
        * Contributed to the development of a recommendation system for personalized customer experiences
       
-   * JV Enterprise (Gujarat, India) - Data Analyst, April 2018 - March 2020
+   * JV Enterprise (Gujarat, India) - Data Analyst, January 2020 - March 2020
    
        *  Cleaned and transformed raw data from various sources, ensuring data accuracy and consistency
        *  Created interactive dashboards using Tableau for monitoring key performance indicators (KPIs)
