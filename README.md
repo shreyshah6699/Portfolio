@@ -1,9 +1,9 @@
 **ML Engineer** | **Data Scientist** | **Data Engineer** | **Data Analyst**
 
 * **Contact**
-    * Email: shreyshah6699@outlook.com 
+    * Email: sshrey99@outlook.com 
     * Phone: (201) 912-6598
-    * [LinkedIn](https://www.linkedin.com/in/shrey-shah99)
+    * [LinkedIn](https://www.linkedin.com/in/shrey-hah99)
 
               
    
