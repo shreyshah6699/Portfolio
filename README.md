@@ -24,7 +24,13 @@
 
 * **Experience**
 
-   * JV Enterprise (Gujarat, India) - Data Analyst, April 2020 - July 2022
+   * Gulab Oil & Foods (Gujarat, India) - Scientist, April 2021 - July 2022
+       * Led market analysis for a new product launch, driving success and contributing to a 7% increase in overall revenue
+       * Streamlined inventory management processes, leading to a 10% increase in efficiency and reduction in inventory holding costs
+       * Implemented a data-driven inventory forecasting model, improving accuracy, reducing stockouts by 20\%, \& boosting efficiency
+       * Developed customer segmentation models to optimize targeted marketing, enhancing acquisition and retention
+    
+   * JV Enterprise (Gujarat, India) - Data Analyst, January 2019 - March 2021
    
        * Collaborated with cross-functional teams to analyze large datasets, identify trends, and extract actionable insights
        * Developed predictive models to optimize inventory management, resulting in a 15% reduction in excess stock
@@ -33,7 +39,7 @@
        * Worked closely with engineers to implement real-time anomaly detection algorithms for production lines
        * Contributed to the development of a recommendation system for personalized customer experiences
       
-   * JV Enterprise (Gujarat, India) - Data Analyst, January 2020 - March 2020
+   * JV Enterprise (Gujarat, India) - Data Analyst Intern, September 2020 - December 2020
    
        *  Cleaned and transformed raw data from various sources, ensuring data accuracy and consistency
        *  Created interactive dashboards using Tableau for monitoring key performance indicators (KPIs)
@@ -48,10 +54,10 @@
        * Developed a versatile multilingual chatbot by integrating PyTorch-based deep learning, Bag of Words Natural Language Processing model, web scraping, and a tkinter user interface.
        * Offered features like weather updates, horoscope predictions, jokes, Sudoku games, and translations in over 100 languages using the Hugging Face Transformers library (100B+ parameters).
    
-   * Data-Driven Diabetes Risk Stratification
+   * Chicken Disease Classification
    
-       * Planned a high-accuracy (91% precision) AI-powered risk prediction model with optimized data pipelines and feature engineering.
-       * Unveiled key diabetes risk factors and exceptional model performance through diverse ML algorithms (Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, Neural Networks) along with evaluation metrics and interpretability techniques. 
+       * Developed and deployed a comprehensive deep learning solution for chicken disease classification, leveraging MLOps practices and a DVC Pipeline to enhance model versioning and reproducibility.
+       * Integrated the solution into Azure and AWS cloud environments using CI/CD pipelines, facilitating efficient model updates and ensuring robust scalability. 
    
    * Bidirectional Bridge
    
