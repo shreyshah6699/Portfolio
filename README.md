@@ -30,36 +30,34 @@ sophisticated natural language processing solutions.
 
 * **Experience**
 
-   * Gulab Oil & Foods (Gujarat, India) - Scientist, April 2021 - July 2022
-      ● Used obfuscation techniques to prevent the leak of confidential data to be submitted to proprietary LLM like GPT and Claude
-      ● Leveraged Python and libraries like Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, Keras, and Spark to build robust models.
-      ● Achieved a 35% improvement in model performance through rigorous evaluation metrics (accuracy, precision, recall) and
+   * Washington Software (Gaithersburg, MD) - AI Engineer, February 2024 - present
+      * Used obfuscation techniques to prevent the leak of confidential data to be submitted to proprietary LLM like GPT and Claude
+      * Leveraged Python and libraries like Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, Keras, and Spark to build robust models.
+      * Achieved a 35% improvement in model performance through rigorous evaluation metrics (accuracy, precision, recall) and
       hyperparameter tuning.
-      ● Built a custom retrieval augmentation system using Langchain using multiple LLM with efficient prompt engineering that resulted in
+      * Built a custom retrieval augmentation system using Langchain using multiple LLM with efficient prompt engineering that resulted in
       token prediction cost reduced by 20% compared to previous approach.
-      ● Create insightful visualizations and dashboards using Tableau to present data analysis results and model performance to stakeholders.
-      ● Work closely with cross-functional teams to understand business requirements and translate them into AI solutions.
-      ● Utilized SQL to manage and query relational databases such as MySQL and Pinecone to improve data retrieval efficiency by 40%.
-      ● Implemented Docker for containerization and Kubernetes for orchestration, improving deployment efficiency by 60%.
-      ● Utilize Git for version control and collaborative coding, ensuring code quality and consistency.
+      * Create insightful visualizations and dashboards using Tableau to present data analysis results and model performance to stakeholders.
+      * Work closely with cross-functional teams to understand business requirements and translate them into AI solutions.
+      * Utilized SQL to manage and query relational databases such as MySQL and Pinecone to improve data retrieval efficiency by 40%.
+      * Implemented Docker for containerization and Kubernetes for orchestration, improving deployment efficiency by 60%.
+      * Utilize Git for version control and collaborative coding, ensuring code quality and consistency.
 
     
-   * JV Enterprise (Gujarat, India) - Data Analyst, January 2019 - March 2021
+   * Spectrum Webapps (Gujarat, India) - Data Scientist, September 2019 - July 2022
    
-       * Collaborated with cross-functional teams to analyze large datasets, identify trends, and extract actionable insights
-       * Developed predictive models to optimize inventory management, resulting in a 15% reduction in excess stock
-       * Conducted A/B testing for pricing strategies, leading to a 7% increase in profit margins
-       * Leveraged machine learning techniques to improve product quality control, reducing defects by 12%
-       * Worked closely with engineers to implement real-time anomaly detection algorithms for production lines
-       * Contributed to the development of a recommendation system for personalized customer experiences
-      
-   * JV Enterprise (Gujarat, India) - Data Analyst Intern, September 2020 - December 2020
-   
-       *  Cleaned and transformed raw data from various sources, ensuring data accuracy and consistency
-       *  Created interactive dashboards using Tableau for monitoring key performance indicators (KPIs)
-       *  Collaborated with business stakeholders to define data requirements and deliver actionable insights
-       *  Conducted exploratory data analysis (EDA) to uncover patterns and anomalies
-       *  Assisted in designing and implementing data pipelines for efficient data processing
+      * Utilized the Agile Spectrum Webappsmethodology of development for Requirements, Planning, Design, and Deployment.
+      * Designed and implemented interactive dashboards using Matplotlib and other visualization tools, leading to a 30% increase in
+      stakeholder engagement.
+      * Implement and manage AI solutions in cloud environments, ensuring seamless integration and efficient resource utilization.
+      * Conducted data preprocessing and exploratory data analysis on datasets ranging from 1GB to 10TB, enhancing data quality and model
+      performance by 25%.
+      * Leveraged natural language processing (NLP) libraries such as spaCy and NLTK to preprocess and analyze large volumes of textual
+      data for sentiment analysis, entity recognition, and intent classification.
+      * Utilized deep learning frameworks like TensorFlow and PyTorch to train and deploy machine learning models for speech recognition
+      and synthesis tasks, achieving accuracy rates of over 90%.
+      * Worked with project managers to merge the database from different data sources to Amazon Web Services (AWS) RDS.
+
       
 * **Projects**
 
