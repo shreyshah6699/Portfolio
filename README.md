@@ -1,4 +1,4 @@
-**ML Engineer** | **Data Scientist** | **Data Engineer** | **Data Analyst**
+**AI Engineer** | **Data Scientist** | **Data Engineer** | **Data Analyst**
 
 * **Contact**
     * Email: sshrey99@outlook.com 
@@ -8,8 +8,14 @@
               
    
 * **Summary:**
-  * Experienced Data Analyst with proven skills in programming, machine learning (including deep learning and NLP), and data analysis to extract valuable
-      insights. Track record of improving business metrics in unconventional ways, guiding customer experiences across diverse industries.
+  * With 3+ years of extensive experience in AI system development, I specialize in the entire lifecycle of foundational model training, finetuning, retrieval-augmented systems, and rigorous model evaluation. Proficient in architecting Large Language Models (LLMs), creating
+targeted instruction datasets, and implementing quantization and inference optimizations, I enhance system performance significantly.
+My proven project management skills cover problem definition, data acquisition, and full-cycle deployment, utilizing tools like MLflow
+and cloud platforms such as AWS, Google Cloud, and Azure. My expertise extends to both proprietary models like GPT-4 and Claude,
+and open-source models including Llama and Mistral, ensuring the delivery of high-performing, scalable, and cost-efficient AI solutions.
+Additionally, I leverage IDE tools such as PyCharm, RStudio, Visual Studio Code, Jupyter Notebook, Google Collab, and Navicat for
+efficient development, and utilize NLP libraries like NLTK, spaCy, GPT-3, BERT, and Hugging Face's Transformers to create
+sophisticated natural language processing solutions.
 
 * **Education**
 
@@ -25,10 +31,18 @@
 * **Experience**
 
    * Gulab Oil & Foods (Gujarat, India) - Scientist, April 2021 - July 2022
-       * Led market analysis for a new product launch, driving success and contributing to a 7% increase in overall revenue
-       * Streamlined inventory management processes, leading to a 10% increase in efficiency and reduction in inventory holding costs
-       * Implemented a data-driven inventory forecasting model, improving accuracy, reducing stockouts by 20\%, \& boosting efficiency
-       * Developed customer segmentation models to optimize targeted marketing, enhancing acquisition and retention
+      ● Used obfuscation techniques to prevent the leak of confidential data to be submitted to proprietary LLM like GPT and Claude
+      ● Leveraged Python and libraries like Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, Keras, and Spark to build robust models.
+      ● Achieved a 35% improvement in model performance through rigorous evaluation metrics (accuracy, precision, recall) and
+      hyperparameter tuning.
+      ● Built a custom retrieval augmentation system using Langchain using multiple LLM with efficient prompt engineering that resulted in
+      token prediction cost reduced by 20% compared to previous approach.
+      ● Create insightful visualizations and dashboards using Tableau to present data analysis results and model performance to stakeholders.
+      ● Work closely with cross-functional teams to understand business requirements and translate them into AI solutions.
+      ● Utilized SQL to manage and query relational databases such as MySQL and Pinecone to improve data retrieval efficiency by 40%.
+      ● Implemented Docker for containerization and Kubernetes for orchestration, improving deployment efficiency by 60%.
+      ● Utilize Git for version control and collaborative coding, ensuring code quality and consistency.
+
     
    * JV Enterprise (Gujarat, India) - Data Analyst, January 2019 - March 2021
    
