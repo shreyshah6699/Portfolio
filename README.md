@@ -1,8 +1,8 @@
 **AI Engineer** | **Data Scientist** | **Data Engineer** | **Data Analyst**
 
 * **Contact**
-    * Email: sshrey99@outlook.com 
-    * Phone: (201) 912-6598
+    * Email: sshrey560@gmail.com 
+    * Phone: (302) 409-0608
     * [LinkedIn](https://www.linkedin.com/in/shrey-hah99)
 
               
